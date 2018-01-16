@@ -4,6 +4,7 @@
 #define __ESP_SYSTEM_API_H__
 
 #include <ets_sys.h>
+#include <espinc/ets_sys_missing.h>
 #include <osapi.h>
 #include <gpio.h>
 #include <os_type.h>
